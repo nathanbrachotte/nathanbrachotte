@@ -3,9 +3,7 @@
 
 I'm **Nathan Brachotte** [![Engineer at Klarna][klarna-badge]](https://engineering.klarna.com/), I like coding, Spikeball and Rocket League
 
-📫 Reach me on [![Twitter Follow][twitter-badge]](https://twitter.com/nathanbrachotte)  
-🕸 Visit my website [![nathanbrachotte.dev][perso-website-badge]](https://twitter.com/nathanbrachotte)  
-
+📫 Reach me on [![Twitter Follow][twitter-badge]](https://twitter.com/nathanbrachotte) or [![nathanbrachotte.dev][perso-website-badge]](https://nathanbrachotte.dev) 
 
 ---
 ![size][size-badge]
@@ -20,3 +18,4 @@ I'm **Nathan Brachotte** [![Engineer at Klarna][klarna-badge]](https://engineeri
 [french-badge]: https://img.shields.io/badge/french-100%25-blue
 [twitter-badge]: https://img.shields.io/twitter/follow/nathanbrachotte?style=social
 [perso-website-badge]: https://img.shields.io/badge/french-100%25-blue?logo=appveyor
+
