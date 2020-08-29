@@ -3,7 +3,7 @@
 
 I'm **Nathan Brachotte** [![Engineer at Klarna][klarna-badge]](https://engineering.klarna.com/), I like coding, spikeball and rocket league.
 
-📫 Reach me on [![Twitter Follow][twitter-badge]](https://twitter.com/nathanbrachotte)
+📫 Reach me on [![Twitter Follow][twitter-badge]](https://twitter.com/nathanbrachotte)  
 🕸 Check out my (wip) [![nathanbrachotte.dev][perso-website-badge]](https://nathanbrachotte.dev) 
 
 ---
