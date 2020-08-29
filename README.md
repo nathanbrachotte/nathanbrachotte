@@ -1,18 +1,4 @@
 
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
- ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ### Hi there 👋
 
 I'm **Nathan Brachotte** [![Engineer at Klarna][klarna-badge]](https://engineering.klarna.com/), I like coding and Rocket League
@@ -21,7 +7,7 @@ I'm **Nathan Brachotte** [![Engineer at Klarna][klarna-badge]](https://engineeri
 [![Twitter Follow][twitter-image]](https://twitter.com/nathanbrachotte)
 
 
-⚡ Fun facts:  
+---
 ![size][size-badge]
 ![release][release-date-badge]
 ![nationality][french-badge]
