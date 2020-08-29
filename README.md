@@ -7,9 +7,9 @@ I'm **Nathan Brachotte** [![Engineer at Klarna][klarna-badge]](https://engineeri
 🕸 Check out my (wip) [![nathanbrachotte.dev][perso-website-badge]](https://nathanbrachotte.dev) 
 
 ---
-![size][size-badge](https://nathanbrachotte.dev) 
-![release][release-date-badge](https://nathanbrachotte.dev) 
-![nationality][french-badge](https://nathanbrachotte.dev) 
+[![size][size-badge](https://nathanbrachotte.dev)]
+[![release][release-date-badge](https://nathanbrachotte.dev)]
+[![nationality][french-badge](https://nathanbrachotte.dev)]
 
 
 
