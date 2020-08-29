@@ -20,9 +20,9 @@ I'm **Nathan Brachotte**, I like code and Rocket League
 📫 How to reach me:
 [![Engineer at Klarna][klarna-badge]](https://engineering.klarna.com/)
 
-⚡ Fun facts:\n
+⚡ Fun facts:
 ![size][size-badge]
-[release-date-badge]
+![release][release-date-badge]
 
 
 
