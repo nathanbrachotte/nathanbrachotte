@@ -19,4 +19,4 @@ I'm **Nathan Brachotte** [![Engineer at Klarna][klarna-badge]](https://engineeri
 [release-date-badge]: https://img.shields.io/badge/release%20date-1995-ffb3c7?style=flat
 [french-badge]: https://img.shields.io/badge/french-100%25-blue
 [twitter-badge]: https://img.shields.io/twitter/follow/nathanbrachotte?style=social
-[perso-website-badge]: https://img.shields.io/badge/french-100%25-blue&logo=appveyor
+[perso-website-badge]: https://img.shields.io/badge/french-100%25-blue?logo=appveyor
