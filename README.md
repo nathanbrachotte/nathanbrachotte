@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-I'm **Nathan Brachotte**, I like code and Rocket League
+I'm **Nathan Brachotte** [![Engineer at Klarna][klarna-badge]](https://engineering.klarna.com/), I like coding and Rocket League
 
-📫 How to reach me:
-[![Engineer at Klarna][klarna-badge]](https://engineering.klarna.com/)
+📫 Reach me:  
 
-⚡ Fun facts:
+
+⚡ Fun facts:  
 ![size][size-badge]
 ![release][release-date-badge]
 
