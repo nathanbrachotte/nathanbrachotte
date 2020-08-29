@@ -21,8 +21,8 @@ I'm **Nathan Brachotte** [![Engineer at Klarna][klarna-badge]](https://engineeri
 
 
 ⚡ Fun facts:  
-![size][size-badge]
-![release][release-date-badge]
+[size][size-badge]
+[release][release-date-badge]
 
 
 
