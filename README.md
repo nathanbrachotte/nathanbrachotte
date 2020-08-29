@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 
-I'm **Nathan Brachotte** [![Engineer at Klarna][klarna-badge]](https://engineering.klarna.com/), I like coding and Rocket League
+I'm **Nathan Brachotte** [![Engineer at Klarna][klarna-badge]](https://engineering.klarna.com/), I like coding, Spikeball and Rocket League
 
 📫 Reach me:
 [![Twitter Follow][twitter-image]](https://twitter.com/nathanbrachotte)
