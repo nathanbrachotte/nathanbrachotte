@@ -21,8 +21,8 @@ I'm **Nathan Brachotte**, I like code and Rocket League
 [![Engineer at Klarna][klarna-badge]](https://engineering.klarna.com/)
 
 ⚡ Fun fact:
-[![size][size-badge]]
-[![release date][release-date-badge]]
+[size-badge]
+[release-date-badge]
 
 
 
