@@ -1,4 +1,4 @@
-
+_Be nice and keep learning 👨🏼‍💻_
 ### Hi there 👋
 
 I'm **Nathan Brachotte** [![Engineer at Klarna][klarna-badge]](https://engineering.klarna.com/), I like coding, spikeball and rocket league.
