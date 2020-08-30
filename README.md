@@ -1,5 +1,4 @@
-_Be nice, be humble, keep learning_ 👨🏼‍💻
-### Hi there 👋
+### Wassup 👋
 
 I'm **Nathan**  
 [![Engineer at Klarna][klarna-badge]](https://jobs.lever.co/klarna?lever-via=i1KtV0aNYj)  
