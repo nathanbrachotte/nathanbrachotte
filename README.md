@@ -2,8 +2,11 @@ _Be nice, be humble, keep learning_ 👨🏼‍💻
 ### Hi there 👋
 
 I'm **Nathan**  
-[![Engineer at Klarna][klarna-badge]](https://jobs.lever.co/klarna?lever-via=i1KtV0aNYj), I like coding, spikeball and rocket league.
+[![Engineer at Klarna][klarna-badge]](https://jobs.lever.co/klarna?lever-via=i1KtV0aNYj)  
 <!--- Klarna badge was stolen to the amazing https://github.com/robinpokorny --->
+
+I like coding, spikeball and rocket league.
+
 
 📫 Reach me on [![Twitter Follow][twitter-badge]](https://twitter.com/nathanbrachotte)  
 🕸 Check out my (wip) [![nathanbrachotte.dev][perso-website-badge]](https://nathanbrachotte.dev) 
