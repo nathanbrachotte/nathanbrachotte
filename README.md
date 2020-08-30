@@ -6,7 +6,7 @@ I'm **Nathan**
 
 I like coding, spikeball and rocket league.
 
-
+---
 📫 Reach me on [![Twitter Follow][twitter-badge]](https://twitter.com/nathanbrachotte)  
 🕸 Check out my (wip) [![nathanbrachotte.dev][perso-website-badge]](https://nathanbrachotte.dev) 
 
