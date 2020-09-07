@@ -1,6 +1,7 @@
 ### Wassup 👋
 
-I'm **Nathan**  
+I'm **Nathan** 👨🏼‍💻  
+  
 [![Engineer at Klarna][klarna-badge]](https://jobs.lever.co/klarna?lever-via=i1KtV0aNYj)  
 <!--- Klarna badge was stolen to the amazing https://github.com/robinpokorny --->
 
