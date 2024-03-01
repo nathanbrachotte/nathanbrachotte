@@ -1,6 +1,6 @@
 ### Wassup 👋
 
-I'm **Nathan** 👨🏼‍💻  
+I'm **Nate** 👨🏼‍💻  
   
 I like JavaScript, roundnet, squash and Rocket League.
 
